@@ -11,7 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "..."
+    "Photography
+    "Wildlife"
+    "Travelling""
   ]
 
 # List your qualifications (such as academic degrees).
@@ -26,12 +28,12 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
-  year = 2018
+  course = "Scientific Cursus"
+  institution = "Athénée Royal de Dour"
+  year = 2017
 
 +++
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+I am student at the University of Mons, Belgium and a future Zoology student
