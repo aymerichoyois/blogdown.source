@@ -27,7 +27,7 @@ weight = 3
 
 Aymeric Hoyois
 <br>
-<small>A short description of myself here</small>
+<small>Biology student and amateur photographer</small>
 <br><br>
 
 <script type="text/javascript">
