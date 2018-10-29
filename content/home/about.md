@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "Photography
-    "Wildlife"
-    "Travelling""
+    "Photography",
+    "Wildlife",
+    "Travelling"
   ]
 
 # List your qualifications (such as academic degrees).
