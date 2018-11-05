@@ -1,12 +1,12 @@
 +++
-date = 2016-04-20
-lastmod = 2018-09-20
+date = 2018-11-05
+lastmod = 2018-11-05
 draft = false
 tags = ["academic", "hugo"]
 title = "Mon premier blog"
 math = true
 summary = """
-Résumé en une ou deux phrases ici. 
+Les débuts du site. 
 """
 
 [header]
@@ -16,8 +16,7 @@ preview = false
 
 +++
 
-Le contenu ici
 
-## Un titre
+## Site en cours de construction
 
-Du texte **avec une partie en gras**...
+Ce site est actuellement en cours de création et d'amélioration **Il se peut que certaines parties soient modifiées souvent **...

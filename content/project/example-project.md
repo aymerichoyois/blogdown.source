@@ -3,10 +3,10 @@
 date = "2018-09-24"
 
 # Project title.
-title = "My project"
+title = "Premier projet"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "Ce projet est le premier à avoir été réalisé au cours de Sciences des Données"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "project.jpg"
@@ -27,4 +27,4 @@ image = "headers/project-header.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
 
-Here I describe my project using Markdown formatting...
+Nous apprenons actuellement à créer des graphiques et gérer des données avec la SciViews Box et plus précisément le programme RStudio...
