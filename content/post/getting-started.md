@@ -3,20 +3,30 @@ date = 2018-11-05
 lastmod = 2018-11-05
 draft = false
 tags = ["academic", "hugo"]
-title = "Mon premier blog"
+title = "Volontariat en Afrique du Sud"
 math = true
 summary = """
-Les débuts du site. 
+Travail d'entretien et de soins animaliers 
 """
 
 [header]
-image = "headers/secondary-header.jpg"
+image = "headers/girafe1.jpg"
 caption = "Image credit: **Derek Thompson** on Unsplash"
 preview = false
 
 +++
 
 
-## Site en cours de construction
+## Volontariat en Afrique du Sud
 
-Ce site est actuellement en cours de création et d'amélioration **Il se peut que certaines parties soient modifiées souvent **...
+Durant le mois d'août 2017, j'ai travaillé dans un centre en Afrique du Sud qui soigne et relâche les animaux blessés. Ce parc héberge également des guépards, ouistitis, perroquets, antilopes, reptiles et des milliers d'oiseaux. Ce volontariat m'a permis d'apprendre à établir un menu adapté au régime alimentaire d'animaux, d'effectuer de nombreuses opérations (soins,médicaments, transfert,... ). J'ai également appris à repérer les traces des animaux et à suivre leurs déplacements.
+
+![Photo originale](../../img/Brie.jpg)
+
+![Photo originale](../../img/Serval.jpg)
+
+![Photo originale](../../img/Grue.jpg)
+
+![Photo originale](../../img/Girafe.jpg)
+
+
